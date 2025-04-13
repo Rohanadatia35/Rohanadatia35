@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my coding skills and trying to learn**
 
-- 🌱 I’m currently learning **Advanced Java,Python**
+- 🌱 I’m currently learning **Advanced Java, Oracle SQL**
 
 - 📫 To reach me **rohan.adatia11@gmail.com**
 
